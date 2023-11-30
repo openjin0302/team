@@ -1,4 +1,8 @@
+[add part]
+I can eat banana
+I don't like banana
 
+===================
 
 I want to sleep
 
